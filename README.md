@@ -1,9 +1,13 @@
 # Musinsa-Recommendation-System
 
-### 📌 data
+### 📌 Data
 - use Musinsa's outerwear, top, pants, shoes data
 - How to crawling Musinsa's data(look this repository ➜ https://github.com/DoyeonLim/Musinsa-Crawling-Code)
 
-### 📌 data preprocessing
+### 📌 Data Preprocessing
 - TF-IDF
 - Word2Vec
+
+### 📌 Model
+- Factorization Machines(FM)
+- Wide&Deep model
